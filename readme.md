@@ -1,5 +1,5 @@
 # XMRForge
-![alt text](monero_logo.png)
+![XMRForge](monero_logo.png)
 
 XMRForge is an open-source GUI miner for Monero, written in Python. It is designed to be lightweight and efficient, providing users with a simple and effective tool for mining Monero.
 
