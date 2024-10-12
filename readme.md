@@ -37,6 +37,9 @@ XMRForge is an open-source GUI miner for Monero, written in Python. It is design
    python xmrforge.py
    ```
 
+   ![XMRForge](Window Screenshoot.PNG)
+
+
 ## Usage
 
 - After launching the application, configure your wallet address, choose a mining pool (or configure P2Pool), and start mining with ease.
